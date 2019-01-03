@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "AzureIoTHub.DeploymentArmTemplate", "AzureIoTHub.DeploymentArmTemplate\AzureIoTHub.DeploymentArmTemplate.deployproj", "{1C75EC5D-41A4-4B58-A425-D551A599BD64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C75EC5D-41A4-4B58-A425-D551A599BD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C75EC5D-41A4-4B58-A425-D551A599BD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C75EC5D-41A4-4B58-A425-D551A599BD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C75EC5D-41A4-4B58-A425-D551A599BD64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA7E2663-AC54-480D-A7FB-73DE6E783C54}
+	EndGlobalSection
+EndGlobal
